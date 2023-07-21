@@ -20,7 +20,7 @@
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div><br/>
-<h5>Desenvolvimento de sites Front-End, Back-End  e App de Celulares
+<h5>Desenvolvimento de sites Front-End, Back-End  e App para Celulares
 <div style="sisplay: inline_block">
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
