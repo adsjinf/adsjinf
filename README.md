@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adsjinf&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsjinf&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsjinf&layout=compact&title_color=008000&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
