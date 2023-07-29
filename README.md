@@ -71,3 +71,6 @@
 
 ## E-Mail de contato:
 - ismael@adsistemas.com.br
+
+## Liguagem com experiencia e projetos desenvolvidos
+https://github.com/lucasrmagalhaes/learning-COBOL/blob/main/img/COBOL.jpg
