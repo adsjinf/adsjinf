@@ -44,7 +44,9 @@
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img align="center" alt="TerminalWindows" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
     <img align="center" alt="PowerShell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
-    <img align="center" alt="PowerShell" src="https://github.com/lucasrmagalhaes/learning-COBOL/blob/main/img/COBOL.jpg" />
+    <H1>
+        Cobol e vb6
+    </H1>
 </div><br/>
 <h5>Nuvem
 <div style="sisplay: inline_block">
