@@ -1,4 +1,4 @@
-### Olá! Eu sou José Ismael, branco, 58 anos, pcd e 35 anos de experiencia em TI 🖐️
+### Olá! Eu sou José Ismael, branco, 59 anos, pcd e 38 anos de experiencia em TI 🖐️
 
 [![Site](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://dilmabittencourt.com.br/)
 [![Site](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](http://alemdasorte.com.br/)
