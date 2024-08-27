@@ -45,7 +45,7 @@
     <img align="center" alt="TerminalWindows" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
     <img align="center" alt="PowerShell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
     <H1>
-        Cobol e vb6
+        Cobol, vb6, Delphi e Java.
     </H1>
 </div><br/>
 <h5>Nuvem
