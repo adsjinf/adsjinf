@@ -1,4 +1,4 @@
-### Olá! Eu sou José Ismael, branco, 59 anos com 38 anos de experiencia em TI 🖐️
+### Olá! Eu sou José Ismael, branco, 59 anos🖐️
 
 [![Site](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://dilmabittencourt.com.br/)
 [![Site](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](http://alemdasorte.com.br/)
@@ -72,7 +72,7 @@
     <img align="center" alt="IFood" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" />
 </div><br/>
 
-## Com 35 anos de experiência em tecnologia e educação, meu interesse apaixonado pela ciência me motiva a buscar soluções inovadoras. Como educador, compartilho meu conhecimento inspirador, facilitando a vida das pessoas com soluções tecnológicas. Líder de projetos relevantes, busco ser uma referência no setor para contribuir com o avanço da sociedade.
+## Com 39 anos de experiência em tecnologia e educação. sou movido por uma paixão por ciência e que me impulsiona a buscar soluções inovadoras. Como educador, dedico-me a compartilhar conhecimento de forma inspiradora, facilitando a vida das pessoas através de soluções tecnológicas. Liderando projetos de grande relevância, meu objetivo é ser uma referência no setor e contribuir significativamente para o avanço da sociedade.
 
 ## Ultimos videos:
 - Apresentação.
