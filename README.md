@@ -23,36 +23,33 @@
 </div><br/>
 <h5>Desenvolvimento de sites Front-End, Back-End  e App para Celulares. Em Curso
 <div style="sisplay: inline_block">
-    <h3>Front-end</h3>
+    <h5>Front-end</h5>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></br>
-    <h3>Bancos de dados</h3>
+    <h5>Bancos de dados</h5>
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img align="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></br>
-    <h3>Linguagem desktop</h3>
+    <h5>Linguagem desktop</h5>
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></br>
-    <h3>Back-end</h3>
+    <h5>Back-end</h5>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></br>
-    <h3>Framework</h3>
+    <h5>Framework</h5>
     <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <h3>Controle de versão</h3>
+    <h5>Controle de versão</h5>
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></br>
-    <h3>Ferramentas</h3>
+    <h5>Ferramentas</h5>
     <img align="center" alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" /></br>
     <img align="center" alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
     <img align="center" alt="Vision" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" />
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img align="center" alt="TerminalWindows" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
     <img align="center" alt="PowerShell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
-    <H2>
-        Linguagens com as quais já trabalhei: COBOL, VB6 e Delphi. Atualmente, trabalho com Java.
-    </H2>
 </div><br/>
 <h5>Nuvem
 <div style="sisplay: inline_block">
@@ -72,7 +69,11 @@
     <img align="center" alt="CounterStrike" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
     <img align="center" alt="IFood" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" />
 </div><br/>
-
+<div>
+    <H2>
+    Linguagens com as quais já trabalhei: COBOL, VB6 e Delphi. Atualmente, trabalho com Java.
+    </H2>
+</div><br/>
 ## Com 39 anos de experiência em tecnologia e educação. sou movido por uma paixão por ciência e que me impulsiona a buscar soluções inovadoras. Como educador, dedico-me a compartilhar conhecimento de forma inspiradora, facilitando a vida das pessoas através de soluções tecnológicas. Liderando projetos de grande relevância, meu objetivo é ser uma referência no setor e contribuir significativamente para o avanço da sociedade.
 
 ## Ultimos videos:
