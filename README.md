@@ -74,3 +74,9 @@
 ## E-Mail de contato:
 - ismael@adsistemas.com.br
 
+###
+<div align="center">
+    <img src"https://profile-counter.glitch.me/adsjinf/count.svg?" />
+</div>
+###
+
