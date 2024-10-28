@@ -6,7 +6,6 @@
 [![Site](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://santarosa-site.web.app/)
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPvTOdjDJlBHqMebPZS5aCg)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://studio.youtube.com/channel/UC3bVkwXluBO69Oz0EIRzyvA)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adsjinf&show_icons=true&title_color=008000&theme=dracula)
 
